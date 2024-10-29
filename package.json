@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release",
+  "name": "semantic-release-fork",
   "description": "Automated semver compliant package publishing",
   "version": "0.0.0-development",
   "type": "module",
@@ -17,10 +17,7 @@
     "timeout": "2m"
   },
   "bin": {
-    "semantic-release": "bin/semantic-release.js"
-  },
-  "bugs": {
-    "url": "https://github.com/semantic-release/semantic-release/issues"
+    "semantic-release-fork": "bin/semantic-release.js"
   },
   "contributors": [
     "Gregor Martynus (https://twitter.com/gr2m)",
@@ -92,7 +89,7 @@
     "index.js",
     "cli.js"
   ],
-  "homepage": "https://github.com/semantic-release/semantic-release#readme",
+  "homepage": "https://github.com/DariusWe/semantic-release-fork#readme",
   "keywords": [
     "author",
     "automation",
@@ -138,7 +135,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/semantic-release/semantic-release.git"
+    "url": "git+https://github.com/DariusWe/semantic-release-fork.git"
   },
   "config": {
     "commitizen": {
